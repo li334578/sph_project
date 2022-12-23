@@ -39,3 +39,11 @@ git config --global http.https://github.com.proxy http://127.0.0.1:58591
 npm install --save less less-loader@6
 ```
 
+安装vue-router
+```
+npm install vue-router@3
+```
+
+其他环境需要执行`npm install`
+
+运行执行 `npm run serve`
